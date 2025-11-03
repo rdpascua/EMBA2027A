@@ -18,6 +18,10 @@ According to the UNESCO document (page 5), SETI "contributes essentially to ever
 
 ---
 
+## Focused (SDG)
+
+5, 6, 11, 13, 14, 15 and 17
+
 ## 🇵🇭 Why This Matters: The Philippine Story
 
 ### The Beginning (2016-2017)

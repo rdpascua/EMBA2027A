@@ -1,0 +1,15 @@
+Airline,Book Equity 2008 (Millions),Book Equity 2007 (Millions),Equity Growth %,Currency
+Southwest Airlines,4953,6941,-28.6%,USD
+Continental Airlines,105,1550,-93.2%,USD
+Lufthansa,9631,10076,-4.4%,EUR
+Singapore Airlines,9530,11337,-15.9%,SGD
+Air Canada,623,2472,-74.8%,CAD
+WestJet Airlines,887,961,-7.7%,CAD
+
+Notes:
+"Equity Growth % = (2008 Equity - 2007 Equity) / 2007 Equity"
+"All values in millions of original currency"
+"2008 was crisis year - negative equity growth across all airlines"
+"WestJet had 2nd best equity preservation (-7.7%) after Lufthansa (-4.4%)"
+"Continental nearly wiped out equity (-93.2%), Air Canada lost 75%"
+"Data source: Exhibit 9 - Book value of equity"

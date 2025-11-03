@@ -1,0 +1,17 @@
+Airline,Asset Growth % (X-axis),ROA % (Y-axis),Revenue 2008 Billions USD (Bubble Size),Profitability Status
+WestJet,9.9,5.4,2.08,Profitable
+Southwest,-14.7,1.2,11.02,Profitable
+Continental,4.8,-4.6,15.24,Loss
+Lufthansa,0.4,2.7,34.87,Profitable
+Singapore,-6.4,4.6,10.53,Profitable
+Air Canada,-4.0,-9.0,8.35,Loss
+
+Notes:
+"X-axis: Asset Growth % (2007 to 2008)"
+"Y-axis: Return on Assets % (2008)"
+"Bubble Size: 2008 Revenue in billions USD (normalized for comparison)"
+"Revenue conversions used: EUR/USD 0.718, SGD/USD 1.52, CAD/USD 1.224"
+"WestJet revenue: C$2.55B ÷ 1.224 = $2.08B USD"
+"Lufthansa revenue: €25.05B ÷ 0.718 = $34.87B USD"
+"Singapore revenue: SGD$16.00B ÷ 1.52 = $10.53B USD"
+"Air Canada revenue: C$10.23B ÷ 1.224 = $8.35B USD"

@@ -1,0 +1,14 @@
+Airline,Size Category,Revenue 2008 (Billions),Sales Growth %,Operating Income Growth %,Net Income Growth %
+Lufthansa,Large,25.05,11.1,2753.3,-63.8
+Continental Airlines,Large,15.24,7.1,-145.7,-227.5
+Singapore Airlines,Large,16.00,0.1,-57.5,-44.0
+Southwest Airlines,Large,11.02,11.8,-43.2,-72.4
+Air Canada,Large,10.23,3.5,-133.1,-338.9
+WestJet Airlines,Small,2.55,18.5,-2.3,-7.8
+
+Notes:
+"Size based on 2008 revenue"
+"Large players: >$10B revenue"
+"Small players: <$5B revenue"
+"Lufthansa operating income growth (2753%) is outlier from near-zero 2007 base"
+"Currency: Southwest & Continental (USD), Lufthansa (EUR), Singapore (SGD), Air Canada & WestJet (CAD)"

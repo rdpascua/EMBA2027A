@@ -1,0 +1,20 @@
+Metric,Southwest Airlines 2008,Southwest Airlines 2007,Continental Airlines 2008,Continental Airlines 2007,Lufthansa 2008,Lufthansa 2007,Singapore Airlines 2009,Singapore Airlines 2008,Air Canada 2008,Air Canada 2007,WestJet Airlines 2008,WestJet Airlines 2007
+Share price Aug 14 2009,9.08,,12.33,,10.58,,6.26,,4.73,,11.62,
+Share price year end,8.61,11.76,7.10,5.90,10.50,15.70,5.79,8.18,6.69,28.29,13.12,22.51
+Earnings per share,0.24,0.84,-4.75,4.67,1.31,3.61,1.73,1.71,-8.37,4.29,1.39,1.48
+Price-to-earnings ratio,35.7,14.0,,,1.3,4.3,3.4,4.8,,,6.6,9.4,15.2
+Common shares outstanding (MM),739,768,123,98,458,458,1186,1247,100,100,128,130
+Market value of equity (MM),6363,9032,875,579,4808,7190,6869,10199,669,2829,1679,2926
+Book value of equity (MM),4953,6941,105,1550,9631,10076,9530,11337,623,2472,887,961
+Market value to book value ratio,1.3,1.3,8.3,0.4,0.5,0.7,0.7,0.9,1.1,1.1,1.9,3.0
+OPERATING DATA,,,,,,,,,,,,
+Available Seat Miles (ASMs billions),103.3,99.6,102.5,103.1,195.4,169.1,117.8,114.0,62.1,62.8,17.1,14.5
+Revenue per Available Seat Mile (RASM cents),10.7,9.9,13.8,12.8,12.8,13.3,12.5,12.1,15.6,14.8,14.9,14.6
+Cost per Available Seat Mile (CASM cents),10.2,9.1,12.4,10.8,12.6,13.3,9.2,8.4,17.9,16.3,13.2,12.3
+Load Factor %,71.2%,72.6%,80.8%,81.7%,78.9%,79.8%,76.5%,80.3%,81.4%,80.6%,80.1%,80.7%
+
+Notes:
+"Fiscal year end: December 31st for all airlines except Singapore Airlines (March 31st)"
+"Exchange rates: Lufthansa EUR (2007=0.684, 2008=0.718), Singapore SGD (2007=1.379, 2008=1.52), Air Canada & WestJet CAD (2007=0.988, 2008=1.224)"
+"Lufthansa RASM and CASM are case writers' estimates"
+"Currency codes: Southwest & Continental (USD), Lufthansa (EUR), Singapore (SGD), Air Canada & WestJet (CAD)"

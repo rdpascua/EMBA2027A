@@ -144,4 +144,4 @@ For discussions about EMBA experiences, sustainable business, or executive educa
 
 ---
 
-Last Updated: September 2024
+Last Updated: September 2025

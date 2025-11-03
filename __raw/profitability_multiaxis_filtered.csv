@@ -1,0 +1,7 @@
+Airline,Return on Equity % (Primary),Operating Margin % (Secondary),Net Profit Margin % (Secondary),Return on Assets % (Primary)
+WestJet Airlines,16.4,11.5,7.0,5.4
+Southwest Airlines,3.6,4.1,1.6,1.2
+Lufthansa,8.7,1.7,2.4,2.7
+Singapore Airlines,7.9,5.6,7.2,4.6
+
+Note: Continental Airlines (ROE: -557.1%) and Air Canada (ROE: -134.5%) excluded - extreme negative values break chart scale

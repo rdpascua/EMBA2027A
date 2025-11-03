@@ -1,0 +1,24 @@
+Metric,Airline,2007,2008,Growth %
+Revenue (Millions),Southwest Airlines,9861,11023,11.8
+Revenue (Millions),Continental Airlines,14232,15241,7.1
+Revenue (Millions),Lufthansa,22539,25048,11.1
+Revenue (Millions),Singapore Airlines,15973,15996,0.1
+Revenue (Millions),Air Canada,9879,10228,3.5
+Revenue (Millions),WestJet Airlines,2151,2550,18.5
+Operating Income (Millions),Southwest Airlines,791,449,-43.2
+Operating Income (Millions),Continental Airlines,687,-314,-145.7
+Operating Income (Millions),Lufthansa,15,428,2753.3
+Operating Income (Millions),Singapore Airlines,2125,903,-57.5
+Operating Income (Millions),Air Canada,495,-164,-133.1
+Operating Income (Millions),WestJet Airlines,300,293,-2.3
+Net Income (Millions),Southwest Airlines,645,178,-72.4
+Net Income (Millions),Continental Airlines,459,-585,-227.5
+Net Income (Millions),Lufthansa,1655,599,-63.8
+Net Income (Millions),Air Canada,429,-1025,-338.9
+Net Income (Millions),Singapore Airlines,2049,1147,-44.0
+Net Income (Millions),WestJet Airlines,193,178,-7.8
+
+Notes:
+"Currency: Southwest & Continental (USD), Lufthansa (EUR), Singapore (SGD), Air Canada & WestJet (CAD)"
+"Growth % = ((2008 - 2007) / 2007) × 100"
+"Lufthansa operating income growth of 2753% is due to recovery from near-zero 2007 base (15M)"
